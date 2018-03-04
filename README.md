@@ -12,7 +12,7 @@ from many people around the world.
 * UQ: Uncertainty Quantification
 
 <!------------------------------------------------------------->
-## Minimizing resrouce consumption
+## Minimizing resource consumption
 Traditional WTG OEM – in fact, traditional corporations, period – will never solve our environmental problems. Publicly listed companies are driven by shareholder returns, shareholder returns by profits, and profits by selling as many goods (WTGs) as possible – and, therefore, using up as many natural resources as possible. “Your interest is maximising resource consumption. That’s what maximises your profit.”
 
 So rather than do the above, let us do something a bit different even if it means recreating the wheel in certain instances.
